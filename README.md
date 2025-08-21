@@ -1,2 +1,52 @@
-# Abhinav_portfolio
-Profile page
+<h1>Hi, I'm Abhinav! <br/><a href="https://github.com/abhinavchandra">Programmer</a>, <a href="https://www.linkedin.com/in/abhinav-chandra-29768a202/">SDE Professional</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>JioSign - Digital Signing Platform</b>  
+  - [JioSign Website](https://jiosign.com)  
+  - Built and optimized a large-scale digital signing platform handling over 1 lakh signatures per day.  
+  - Features: DSC, Aadhar, HSM e-signs, bulk signing, and notification-based workflows.  
+  - Tech stack: Java, Spring Boot, MySQL, Kubernetes, Redis, Kafka.  
+
+- <b>URL Shortener Service</b>  
+  - [GitHub Repo](https://github.com/YOUR_GITHUB/URL-Shortener)  
+  - Scalable URL shortener with Spring Boot, MySQL, and Redis.  
+  - Implemented caching, rate-limiting, and secure REST APIs.  
+
+- <b>OAuth 2.0 Implementation</b>  
+  - [GitHub Repo](https://github.com/YOUR_GITHUB/OAuth2.0-Implementation)  
+  - Built an Authorization Server with Spring Authorization Server.  
+  - Implemented JWT, token-based security, and role-based access.  
+
+- <b>Prometheus Automated Reporting</b>  
+  - [GitHub Repo](https://github.com/YOUR_GITHUB/Prometheus-Reports)  
+  - Automated daily node-level reports using Prometheus APIs.  
+  - Metrics: CPU, Memory, Disk, Network usage.  
+
+<h2>⚡ Skills</h2>
+
+- **Languages**: Java, JavaScript, Python, C, C++, Kotlin  
+- **Frameworks**: Spring Boot, NodeJS, Redis, Kafka  
+- **Tools**: Kubernetes, Docker, Azure, Prometheus, Grafana, MySQL, MongoDB  
+- **Other**: System Design (LLD + HLD), CI/CD, DevOps  
+
+<h2>📜 Certifications & Internships</h2>
+
+- Microsoft Azure Fundamentals (AZ-900)  
+- Internship in Android App Development – IIT Kanpur (Electronics and ICT Academy)  
+- Internship in Artificial Intelligence & Machine Learning – IIT Kanpur (Electronics and ICT Academy)  
+- Internship in Python Programming – IIT Kanpur (Electronics and ICT Academy)  
+- Training in Core Java – United Global Infoservice Pvt. Ltd.  
+- NPTEL Certification in Soft Skills & Personality Development  
+
+<h2>🎓 Education</h2>
+
+- B.Tech in Computer Science and Engineering, United Institute of Technology (2022)  
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Abhinav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+📧 Email: abhinavmathur220@gmail.com
+📱 Phone: +91-8953670403  
+
+[linkedin]: https://www.linkedin.com/in/abhinav-chandra-29768a202/
