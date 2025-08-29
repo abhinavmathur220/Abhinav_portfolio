@@ -9,7 +9,7 @@
   - Tech stack: Java, Spring Boot, MySQL, Kubernetes, Redis, Kafka.  
 
 - <b>URL Shortener Service</b>  
-  - [GitHub Repo](https://github.com/YOUR_GITHUB/URL-Shortener)  
+  - [GitHub Repo](https://github.com/abhinavmathur220/url-shortener.git)  
   - Scalable URL shortener with Spring Boot, MySQL, and Redis.  
   - Implemented caching, rate-limiting, and secure REST APIs.  
 
