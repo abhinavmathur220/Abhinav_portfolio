@@ -14,12 +14,10 @@
   - Implemented caching, rate-limiting, and secure REST APIs.  
 
 - <b>OAuth 2.0 Implementation</b>  
-  - [GitHub Repo](https://github.com/YOUR_GITHUB/OAuth2.0-Implementation)  
   - Built an Authorization Server with Spring Authorization Server.  
   - Implemented JWT, token-based security, and role-based access.  
 
 - <b>Prometheus Automated Reporting</b>  
-  - [GitHub Repo](https://github.com/YOUR_GITHUB/Prometheus-Reports)  
   - Automated daily node-level reports using Prometheus APIs.  
   - Metrics: CPU, Memory, Disk, Network usage.  
 
