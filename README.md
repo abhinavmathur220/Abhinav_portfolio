@@ -11,8 +11,13 @@
 - <b>URL Shortener Service</b>  
   - [GitHub Repo](https://github.com/abhinavmathur220/url-shortener.git)  
   - Scalable URL shortener with Spring Boot, MySQL, and Redis.  
-  - Implemented caching, rate-limiting, and secure REST APIs.  
-
+  - Implemented caching, rate-limiting, and secure REST APIs.
+    
+- <b>AI Code Reviewer</b>
+  - [GitHub Repo]()
+  - Built a login-logout functionality using JWT validation.  
+  - Integrated for reviewing codes using Llama CLI.
+    
 - <b>OAuth 2.0 Implementation</b>  
   - Built an Authorization Server with Spring Authorization Server.  
   - Implemented JWT, token-based security, and role-based access.  
