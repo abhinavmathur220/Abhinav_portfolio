@@ -4,7 +4,9 @@
 
 - <b>JioSign - Digital Signing Platform</b>  
   - [JioSign Website](https://jiosign.com)  
-  - Built and optimized a large-scale digital signing platform handling over 1 lakh signatures per day.  
+  - Built and optimized a large-scale digital signing platform handling over 1 lakh signatures per day.
+  - Monitoring setup for JioSign Application using Prometheus, Graphana and Alermanager.
+  - Log monitoring setup for all monitoring services using Loki. 
   - Features: DSC, Aadhar, HSM e-signs, bulk signing, and notification-based workflows.  
   - Tech stack: Java, Spring Boot, MySQL, Kubernetes, Redis, Kafka.  
 
@@ -22,9 +24,6 @@
   - Built an Authorization Server with Spring Authorization Server.  
   - Implemented JWT, token-based security, and role-based access.  
 
-- <b>Prometheus Automated Reporting</b>  
-  - Automated daily node-level reports using Prometheus APIs.  
-  - Metrics: CPU, Memory, Disk, Network usage.  
 
 <h2>⚡ Skills</h2>
 
