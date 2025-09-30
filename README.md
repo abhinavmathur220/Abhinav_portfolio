@@ -16,7 +16,7 @@
   - Implemented caching, rate-limiting, and secure REST APIs.
     
 - <b>AI Code Reviewer</b>
-  - [GitHub Repo]()
+  - [GitHub Repo](https://github.com/abhinavmathur220/ai_code_reviewer.git)
   - Built a login-logout functionality using JWT validation.  
   - Integrated for reviewing codes using Llama CLI.
     
