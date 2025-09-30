@@ -28,7 +28,7 @@
 <h2>⚡ Skills</h2>
 
 - **Languages**: Java, JavaScript, Python, C, C++, Kotlin  
-- **Frameworks**: Spring Boot, NodeJS, Redis, Kafka  
+- **Frameworks**: Spring Boot, NodeJS, Redis, Kafka, React
 - **Tools**: Kubernetes, Docker, Azure, Prometheus, Grafana, MySQL, MongoDB  
 - **Other**: System Design (LLD + HLD), CI/CD, DevOps  
 
