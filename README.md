@@ -20,7 +20,7 @@
   - Built a login-logout functionality using JWT validation.  
   - Integrated for reviewing codes using Llama CLI.
 
-- <b>Observability Stack< Setupb>
+- <b>Observability Stack Setup<b>
   - Prometheus
   - Alertmanager
   - Grafana
